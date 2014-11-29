@@ -1,0 +1,4 @@
+asyncio==3.4.1
+clize==3.0a1
+sigtools==0.1a5
+six==1.7.3
